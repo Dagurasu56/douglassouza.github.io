@@ -1,2 +1,2 @@
-# https://douglassouza.github.io
+# douglassouza.github.io
 My personal website
